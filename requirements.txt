@@ -1,0 +1,8 @@
+seaborn
+numpy
+matplotlib
+pycocotools
+torch
+torchvision
+mmcv-full==1.8.1
+mmdet==2.28.2
