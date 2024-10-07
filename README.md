@@ -18,7 +18,7 @@ Then, install the basic requirements:
 pip install -r requirements
 ```
 
-## Usage for pickle files (Training))
+## Usage for pickle files (Training)
 - Ripeness:
 ```commandline
 python main.py --config datasets/cherry_instance_ripeness.py --pkl-results work_dir/results.pkl --coco-format --eval proposal
